@@ -35,7 +35,7 @@
 
                    <key>url</key>
 
-                   <string>http://www.example.com/image.57×57.png</string>
+                   <string>https://github.com/wusende/test/raw/master/icon-50.png</string>
 
                </dict>
 
@@ -51,7 +51,7 @@
 
                    <key>md5</key>
 
-                   <string>61fa64bb7a7cae5a46bfb45821ac8bba</string>
+                   <string>60eda3a56f99172a56be8e875f05eb45</string>
 
                    <key>needs-shine</key>
 
@@ -59,7 +59,7 @@
 
                    <key>url</key>
 
-                   <string>http://www.example.com/image.512×512.jpg</string>
+                   <string>https://github.com/wusende/test/raw/master/icon-50.png</string>
 
                </dict>
 
